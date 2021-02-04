@@ -1,0 +1,58 @@
+.div_one {
+    position: relative;
+    width: 50%; 
+    float:left; 
+    height:50%; 
+
+    background-color: white;
+}
+
+.div_two {
+    position: relative;
+    width: 50%; 
+    float:left; 
+    height:50%;
+    background-color: white; 
+}
+
+img {
+    width: 80px;
+    height: auto;
+}
+
+.div_p {
+    background-color: white;
+    position: absolute;
+    width: 600px;
+    height: auto;
+    margin: 50px 100px 50px 100px;
+   }
+body {
+    background-color: rgb(168, 167, 167);
+}
+
+h1{
+    padding: auto;
+    font-family: 'Squada One', cursive;
+}
+p {
+    padding-left: 10px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+input {
+    margin: 5px;
+    border: none;
+    border-bottom: gray solid 2px;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.div_three {
+    position: relative;
+    width: 100%; 
+    float:left; 
+    height:25px;
+    text-align:center;
+}
+button {
+    font-family: 'Fugaz One', cursive;
+}
